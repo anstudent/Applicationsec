@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">スマッシュメモ</string>
+    <string name="message_txt">BEGIN</string>
+    <string name="button_text">勝ち</string>
+    <string name="button_lose">負け</string>
+    <string name="log_text">LOGs</string>
+    <string name="button_show">データ</string>
+    <string name="button_back">戻る</string>
+    <string name="win_text"> 勝ち </string>
+    <string name="lose_text"> 負け </string>
+    <string name="error_view">エラー\n ご迷惑をおかけします。製作者にご連絡お願いいたします。</string>
+    <string name="delete_view">削除</string>
+    <string name="save_view">保存</string>
+    <string name="alart_view">全ての記録を削除しますか？</string>
+    <string name="back">戻る</string>
+
+    <string-array name="list">
+        <item>アイク</item>
+        <item>アイスクライマー</item>
+        <item>インクリング</item>2
+        <item>ウルフ</item>
+        <item>カービィ</item>
+        <item>ガオガエン</item>
+        <item>カムイ</item>
+        <item>ガノンドロフ</item>
+        <item>キャプテン・ファルコン</item>
+        <item>キングクルール</item>
+        <item>クッパ</item>
+        <item>クッパ Jr.</item>
+        <item>クラウド</item>
+        <item>クロム</item>
+        <item>ケン</item>
+        <item>ゲッコウガ</item>
+        <item>こどもリンク</item>
+        <item>サムス</item>
+        <item>シーク</item>
+        <item>シモン</item>
+        <item>シュルク</item>
+        <item>しずえ</item>
+        <item>スネーク</item>
+        <item>ゼルダ</item>
+        <item>ゼロスーツサムス</item>
+        <item>ソニック</item>
+        <item>ダークサムス</item>
+        <item>ダックハント</item>
+        <item>デイジー</item>
+        <item>ディディーコング</item>
+        <item>デデデ</item>
+        <item>トゥーンリンク</item>
+        <item>ドクターマリオ</item>
+        <item>ドンキーコング</item>
+        <item>ネス</item>
+        <item>パックマン</item>
+        <item>パックンフラワー</item>
+        <item>パルテナ</item>
+        <item>ピーチ</item>
+        <item>ピカチュウ</item>
+        <item>ピクミン＆オリマー</item>
+        <item>ピチュー</item>
+        <item>ピット</item>
+        <item>ファルコ</item>
+        <item>フォックス</item>
+        <item>プリン</item>
+        <item>ブラックピット</item>
+        <item>ベヨネッタ</item>
+        <item>ポケモントレーナー</item>
+        <item>マリオ</item>
+        <item>マルス</item>
+        <item>ミュウツー</item>
+        <item>むらびと</item>
+        <item>メタナイト</item>
+        <item>ヨッシー</item>
+        <item>リトル・マック</item>
+        <item>リヒター</item>
+        <item>リュウ</item>
+        <item>リュカ</item>
+        <item>リンク</item>
+        <item>リドリー</item>
+        <item>ルイージ</item>
+        <item>ルカリオ</item>
+        <item>ルキナ</item>
+        <item>ルフレ</item>
+        <item>ロイ</item>
+        <item>ロックマン</item>
+        <item>ロゼッタ＆チコ</item>
+        <item>ロボット</item>
+        <item>ワリオ</item>
+        <item>Miiファイター格闘</item>
+        <item>Miiファイター剣術</item>
+        <item>Miiファイター射撃</item>
+        <item>Mr.ゲーム＆ウォッチ</item>
+        <item>Wii Fit トレーナー</item>
+
+
+    </string-array>
+</resources>

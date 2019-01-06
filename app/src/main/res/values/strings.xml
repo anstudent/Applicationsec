@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">SMASHMEMO</string>
+    <string name="message_txt">BEGIN</string>
+    <string name="button_text">Win</string>
+    <string name="button_lose">Lose</string>
+    <string name="log_text">LOGs</string>
+    <string name="button_show">DATA</string>
+    <string name="button_back">BACK</string>
+    <string name="win_text"> Win   </string>
+    <string name="lose_text"> Lose </string>
+    <string name="error_view">ERROR\n We apologize for the inconvenience. Please contact us.</string>
+    <string name="delete_view">DELETE</string>
+    <string name="save_view">SAVE</string>
+    <string name="alart_view">Do you want to delete all records?</string>
+    <string name="back">BACK</string>
+
+    <string-array name="list">
+
+        <item>BAYONETTA</item>
+        <item>BOUSER</item>
+        <item>BOWSER JR.</item>
+        <item>CAPTAIN FALCON</item>
+        <item>CHROM</item>
+        <item>CLOUD</item>
+        <item>CORRIN</item>
+        <item>DARK PIT</item>
+        <item>DR, MARIO</item>
+        <item>DUCK HUNT</item>
+        <item>FALCO</item>
+        <item>FOX</item>
+        <item>LUCINA</item>
+        <item>DARK SAMUS</item>
+        <item>DAISY</item>
+        <item>DIDDY KONG</item>
+        <item>DONKEY KONG</item>
+        <item>GANONDORF</item>
+        <item>GRENINJA</item>
+        <item>IKE</item>
+        <item>INCINEROAR</item>
+        <item>ICE CLIMBERS</item>
+        <item>INKLING</item>
+        <item>ISABELLE</item>
+        <item>JIGGLYPUFF</item>
+        <item>KING DEDEDE</item>
+        <item>KING K. ROOL</item>
+        <item>KIRBY</item>
+        <item>KEN</item>
+        <item>LITTLE MAC</item>
+        <item>LINK</item>
+        <item>LUIGI</item>
+        <item>LUCARIO</item>
+        <item>LUCAS</item>
+        <item>MARIO</item>
+        <item>MEWTWO</item>
+        <item>MR. GAME ＆ WATCH</item>
+        <item>NESS</item>
+        <item>OLIMAR</item>
+        <item>PICHU</item>
+        <item>PEACH</item>
+        <item>PIKACHU</item>
+        <item>PIRANHA PLANT</item>
+        <item>POKEMON TRAINER</item>
+        <item>ROBIN</item>
+        <item>R.O.B.</item>
+        <item>MARTH</item>
+        <item>MEGA MAN</item>
+        <item>META KNIGHT</item>
+        <item>Mii FIGHTER Brawler</item>
+        <item>Mii FIGHTER Swordfighter</item>＆
+        <item>Mii FIGHTER Gunner</item>
+        <item>PAC-MAN</item>
+        <item>PARUTENA</item>
+        <item>PIT</item>
+        <item>RICHTER</item>
+        <item>RIDLEY</item>
+        <item>ROSALINA  LUMA</item>
+        <item>ROY</item>
+        <item>RYU</item>
+        <item>SAMUS</item>
+        <item>SHEIK</item>
+        <item>SHULX</item>
+        <item>SIMON</item>
+        <item>SNAKE</item>
+        <item>SONIC</item>
+        <item>TOON LINK</item>
+        <item>VILLAGER</item>
+        <item>WARIO</item>
+        <item>Wii Fit TRAINER</item>
+        <item>WOLF</item>
+        <item>YOSHI</item>
+        <item>YOUNG LINK</item>
+        <item>ZELDA</item>
+        <item>ZERO SUIT SAMUS</item>
+
+
+
+
+    </string-array>
+</resources>

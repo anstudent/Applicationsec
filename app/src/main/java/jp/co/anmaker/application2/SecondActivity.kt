@@ -9,9 +9,12 @@ import jp.co.anmaker.application2.R
 import java.io.IOException
 import java.io.BufferedReader
 import java.io.InputStreamReader
+import java.io.Reader
 
 
 class SecondActivity : AppCompatActivity() {
+
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -45,7 +48,7 @@ class SecondActivity : AppCompatActivity() {
         try {
             openFileInput("winlose.txt").use { fileInputStream ->
                 BufferedReader(
-                        InputStreamReader(fileInputStream, "UTF-8")).use { reader ->
+                        InputStreamReader(fileInputStream, "UTF-8") as Reader?).use { reader ->
 
                     var line: String?
 
@@ -72,5 +75,6 @@ class SecondActivity : AppCompatActivity() {
         winTextView.text = "$text"
 
     }
+
 
 }

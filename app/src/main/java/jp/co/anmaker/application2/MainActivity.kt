@@ -11,6 +11,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import android.widget.Spinner
 import jp.co.anmaker.application2.R
 import jp.co.anmaker.application2.R.string.*
+import kotlinx.android.synthetic.main.activity_third.*
 import java.io.FileOutputStream
 import java.io.IOException
 
@@ -30,6 +31,20 @@ class MainActivity : AppCompatActivity() {
 
         button.setOnClickListener{
             val intent = Intent(this, SecondActivity::class.java)
+            var spinnerG = findViewById<View>(R.id.spinner) as Spinner
+            // 選択されているアイテムを取得
+            var idxG = spinnerG.selectedItemPosition as Int
+
+            var spinnerG2 = findViewById<View>(R.id.spinner2) as Spinner
+            // 選択されているアイテムを取得
+            var idxG2 = spinnerG2.selectedItemPosition as Int
+            intent.putExtra("SPIN",idxG)
+            intent.putExtra("SPIN2",idxG2)
+
+            startActivity(intent)
+        }
+        button5.setOnClickListener{
+            val intent = Intent(this, ThirdActivity::class.java)
             var spinnerG = findViewById<View>(R.id.spinner) as Spinner
             // 選択されているアイテムを取得
             var idxG = spinnerG.selectedItemPosition as Int

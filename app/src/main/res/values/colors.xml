@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#9dc3e2</color>
-    <color name="colorPrimaryDark">#949798</color>
+    <color name="colorPrimaryDark">#bcc4c6</color>
     <color name="colorAccent">#a01f23</color>
     <color name="mychara">#d8826a</color>
     <color name="enemy">#8eb3c0</color>

@@ -13,6 +13,9 @@
     <string name="save_view">SAVE</string>
     <string name="alart_view">Do you want to delete all records?</string>
     <string name="back">BACK</string>
+    <string name="data">RATE</string>
+    <string name="numbertext">キャラクターを選んでください</string>
+    <string name="show">SHOW</string>
 
     <string-array name="list">
 
@@ -41,6 +44,7 @@
         <item>INKLING</item>
         <item>ISABELLE</item>
         <item>JIGGLYPUFF</item>
+        <item>JOKER</item>
         <item>KING DEDEDE</item>
         <item>KING K. ROOL</item>
         <item>KIRBY</item>
@@ -91,8 +95,6 @@
         <item>YOUNG LINK</item>
         <item>ZELDA</item>
         <item>ZERO SUIT SAMUS</item>
-
-
 
 
     </string-array>

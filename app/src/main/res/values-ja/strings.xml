@@ -13,6 +13,9 @@
     <string name="save_view">保存</string>
     <string name="alart_view">全ての記録を削除しますか？</string>
     <string name="back">戻る</string>
+    <string name="data">勝率</string>
+    <string name="numbertext">キャラクターを選んでください</string>
+    <string name="show">SHOW</string>
 
     <string-array name="list">
         <item>アイク</item>
@@ -37,6 +40,7 @@
         <item>シモン</item>
         <item>シュルク</item>
         <item>しずえ</item>
+        <item>ジョーカー</item>
         <item>スネーク</item>
         <item>ゼルダ</item>
         <item>ゼロスーツサムス</item>

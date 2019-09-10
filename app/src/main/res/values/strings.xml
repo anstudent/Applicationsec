@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SMASHMEMO</string>
+    <string name="app_name">Smash Memo</string>
     <string name="message_txt">BEGIN</string>
     <string name="button_text">Win</string>
     <string name="button_lose">Lose</string>
@@ -14,11 +14,14 @@
     <string name="alart_view">Do you want to delete all records?</string>
     <string name="back">BACK</string>
     <string name="data">RATE</string>
-    <string name="numbertext">キャラクターを選んでください</string>
+    <string name="numbertext">Choose your character</string>
     <string name="show">SHOW</string>
+    <string name="button_random">Random</string>
+
 
     <string-array name="list">
 
+        <item>BANJO＆KAZOOIE</item>
         <item>BAYONETTA</item>
         <item>BOUSER</item>
         <item>BOWSER JR.</item>
@@ -38,6 +41,7 @@
         <item>DONKEY KONG</item>
         <item>GANONDORF</item>
         <item>GRENINJA</item>
+        <item>HERO</item>
         <item>IKE</item>
         <item>INCINEROAR</item>
         <item>ICE CLIMBERS</item>
@@ -86,6 +90,7 @@
         <item>SIMON</item>
         <item>SNAKE</item>
         <item>SONIC</item>
+        <item>TERRY</item>
         <item>TOON LINK</item>
         <item>VILLAGER</item>
         <item>WARIO</item>

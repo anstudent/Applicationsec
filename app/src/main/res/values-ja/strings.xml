@@ -16,6 +16,7 @@
     <string name="data">勝率</string>
     <string name="numbertext">キャラクターを選んでください</string>
     <string name="show">SHOW</string>
+    <string name="button_random">ランダム</string>
 
     <string-array name="list">
         <item>アイク</item>
@@ -47,6 +48,7 @@
         <item>ソニック</item>
         <item>ダークサムス</item>
         <item>ダックハント</item>
+        <item>テリー</item>
         <item>デイジー</item>
         <item>ディディーコング</item>
         <item>デデデ</item>
@@ -54,6 +56,7 @@
         <item>ドクターマリオ</item>
         <item>ドンキーコング</item>
         <item>ネス</item>
+        <item>バンジョー＆カズーイ</item>
         <item>パックマン</item>
         <item>パックンフラワー</item>
         <item>パルテナ</item>
@@ -73,6 +76,7 @@
         <item>ミュウツー</item>
         <item>むらびと</item>
         <item>メタナイト</item>
+        <item>勇者</item>
         <item>ヨッシー</item>
         <item>リトル・マック</item>
         <item>リヒター</item>

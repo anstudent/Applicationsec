@@ -14,6 +14,9 @@ import jp.co.anmaker.application2.R.string.*
 import kotlinx.android.synthetic.main.activity_third.*
 import java.io.FileOutputStream
 import java.io.IOException
+import java.util.Random
+import java.util.*
+import kotlin.collections.RandomAccess
 
 
 class MainActivity : AppCompatActivity() {
@@ -183,4 +186,18 @@ class MainActivity : AppCompatActivity() {
 
 
     }
+
+    fun myCharaRandom(view: View){
+        val rand = Random()
+        val charaNumber = rand.nextInt(spinner.count)
+        spinner.setSelection(charaNumber)
+        
+    }
+
+    fun enCharaRandom(view :View){
+        val rand = Random()
+        val charaNumber = rand.nextInt(spinner2.count)
+        spinner2.setSelection(charaNumber)
+    }
+
 }

@@ -10,8 +10,8 @@ android {
         applicationId "jp.co.anmaker.application2"
         minSdkVersion 15
         targetSdkVersion 28
-        versionCode 4
-        versionName "2.0"
+        versionCode 8
+        versionName "2.2"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

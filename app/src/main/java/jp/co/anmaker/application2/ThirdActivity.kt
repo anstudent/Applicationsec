@@ -30,7 +30,6 @@ class ThirdActivity : AppCompatActivity() {
         //val spinget3 = intent.getIntExtra("SPINS",0)
         //var spinner = findViewById<View>(R.id.spinner) as Spinner
         spinner4.setSelection(spinget)
-
         button4.setOnClickListener{
             val intent = Intent(this, MainActivity::class.java)
 
@@ -88,7 +87,7 @@ class ThirdActivity : AppCompatActivity() {
         percent = winnum.toDouble()/(winnum+losenum).toDouble()
         percent2 = round(percent*100).toInt()
 
-        textViewPer.text = "WIN "+"$winnum"+" Lose " + "$losenum" + "  $percent2" +"%"
+        textViewPer.text = "Win "+"$winnum"+" Lose " + "$losenum" + "  $percent2" +"%"
 
     }
 }
